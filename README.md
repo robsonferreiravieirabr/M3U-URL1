@@ -59,3 +59,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (15) |eskuich                 |465691519                              |http://c4n.fun                          |                                        
 | LISTA IPTV (16) |866582838               |159759854                              |http://cdn.mp77.site                    |
 | LISTA IPTV (17) |70361922648             |57120825582                            |http://zuts.ch                          |
+| LISTA IPTV (18) |162154782               |978753257                              |http://jrplay.online                    |
