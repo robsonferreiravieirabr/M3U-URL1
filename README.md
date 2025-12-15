@@ -62,3 +62,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (18) |162154782               |978753257                              |http://jrplay.online                    |
 | LISTA IPTV (19) |40168611                |47348103                               |http://2025easy.lat                     |
 | LISTA IPTV (20) |adaosul                 |adao1966                               |http://brtwo.foo                        |
+| LISTA IPTV (21) |11974034383             |eduardo0102                            |http://dns.papayapt.com.br              |
