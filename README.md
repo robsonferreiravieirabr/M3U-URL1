@@ -42,17 +42,9 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv                                                              
 | Qualquer nome   | Username               |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
-| LISTA IPTV (01) |484134749               |328285662                              |http://trexth.xyz:80                    |
-| LISTA IPTV (02) |64364184                |22749197                               |http://newoneblack.site                 |
-| LISTA IPTV (03) |727898485695            |329965491760                           |http://lideboxr.store:80                |
-| LISTA IPTV (04) |4938258529              |2944155744                             |http://maisonxp.click:8080              |
-| LISTA IPTV (05) |valmir                  |valmir                                 |http://dgpro.cloud:80                   |
-| LISTA IPTV (06) |794498560               |398266515                              |http://d.plmv.site                      |
-| LISTA IPTV (07) |11982237031             |luciano                                |http://ibo.playmove.org                 |
-| LISTA IPTV (08) |438349145               |867766897                              |http://srv3.site                        |
-| LISTA IPTV (09) |carloscostaveras        |99145880                               |http://dns.whazersnew.store             |
-| LISTA IPTV (10) |9841434432              |8348637187                             |http://dnsit.click:80                   |
-| LISTA IPTV (11) |969003341029            |006662669402                           |http://prata23.shop                     |
+| LISTA IPTV (01.)|484134749               |328285662                              |http://trexth.xyz:80                    |
+| LISTA IPTV (02.)|64364184                |22749197                               |http://newoneblack.site                 |
+| LISTA IPTV (03.)|969003341029            |006662669402                           |http://prata23.shop                     |
 | LISTA IPTV (12) |Rivelino6372            |zt6325                                 |http://cvc123.com                       |
 | LISTA IPTV (13) |KvhF2qj56q              |Tk8ppshygd                             |http://dns.clientetv.net                |                    
 | LISTA IPTV (14) |Daniel123               |Daniel123                              |http://liderlite.mp77.site:80           |
