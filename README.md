@@ -46,3 +46,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (02)|969003341029            |006662669402                           |http://prata23.shop                      |                   
 | LISTA IPTV (03)|eskuich                 |465691519                              |http://c4n.fun                           |                                        
 | LISTA IPTV (04)|11974034383             |eduardo0102                            |http://dns.papayapt.com.br               |
+| LISTA IPTV (05)|Agostinho               |ReRAmG22                               |http://piratuga.xyz                      |
