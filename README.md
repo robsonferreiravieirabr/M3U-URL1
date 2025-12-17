@@ -43,6 +43,5 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Qualquer nome   | Username               |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | LISTA IPTV (01)|484134749               |328285662                              |http://trexth.xyz:80                     |
-| LISTA IPTV (02)|64364184                |22749197                               |http://newoneblack.site                  |
-| LISTA IPTV (03)|969003341029            |006662669402                           |http://prata23.shop                      |                   
-| LISTA IPTV (04)|eskuich                 |465691519                              |http://c4n.fun                           |                                        
+| LISTA IPTV (02)|969003341029            |006662669402                           |http://prata23.shop                      |                   
+| LISTA IPTV (03)|eskuich                 |465691519                              |http://c4n.fun                           |                                        
