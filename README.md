@@ -44,14 +44,5 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | LISTA IPTV (01.)|484134749               |328285662                              |http://trexth.xyz:80                    |
 | LISTA IPTV (02.)|64364184                |22749197                               |http://newoneblack.site                 |
-| LISTA IPTV (03.)|969003341029            |006662669402                           |http://prata23.shop                     |
-| LISTA IPTV (12) |Rivelino6372            |zt6325                                 |http://cvc123.com                       |
-| LISTA IPTV (13) |KvhF2qj56q              |Tk8ppshygd                             |http://dns.clientetv.net                |                    
-| LISTA IPTV (14) |Daniel123               |Daniel123                              |http://liderlite.mp77.site:80           |
-| LISTA IPTV (15) |eskuich                 |465691519                              |http://c4n.fun                          |                                        
-| LISTA IPTV (16) |866582838               |159759854                              |http://cdn.mp77.site                    |
-| LISTA IPTV (17) |70361922648             |57120825582                            |http://zuts.ch                          |
-| LISTA IPTV (18) |162154782               |978753257                              |http://jrplay.online                    |
-| LISTA IPTV (19) |40168611                |47348103                               |http://2025easy.lat                     |
-| LISTA IPTV (20) |adaosul                 |adao1966                               |http://brtwo.foo                        |
-| LISTA IPTV (21) |11974034383             |eduardo0102                            |http://dns.papayapt.com.br              |
+| LISTA IPTV (03.)|969003341029            |006662669402                           |http://prata23.shop                     |                   
+| LISTA IPTV (04.)|eskuich                 |465691519                              |http://c4n.fun                          |                                        
