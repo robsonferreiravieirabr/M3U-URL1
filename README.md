@@ -48,3 +48,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (04)|11974034383             |eduardo0102                            |http://dns.papayapt.com.br               |
 | LISTA IPTV (05)|Agostinho               |ReRAmG22                               |http://piratuga.xyz                      |
 | LISTA IPTV (06)|WeR5vG9bsY              |X3QxtSSTAC                             |http://site.poupadefrutas.shop           |
+| LISTA IPTV (07)|79785011                |93075130                               |http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs:80|
