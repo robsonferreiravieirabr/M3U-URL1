@@ -40,12 +40,13 @@ https://www.iptvwell.com/internet-speed-test/
 Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 ## Contas Para o Painel Iptv                                                              
-| Qualquer nome   | Username               |Password                               |URL                                     |
-|-----------------|------------------------|---------------------------------------|----------------------------------------|                  
-| LISTA IPTV (01)|484134749               |328285662                              |http://trexth.xyz:80                     |
-| LISTA IPTV (02)|969003341029            |006662669402                           |http://prata23.shop                      |                   
-| LISTA IPTV (03)|eskuich                 |465691519                              |http://c4n.fun                           |                                        
-| LISTA IPTV (04)|11974034383             |eduardo0102                            |http://dns.papayapt.com.br               |
-| LISTA IPTV (05)|Agostinho               |ReRAmG22                               |http://piratuga.xyz                      |
-| LISTA IPTV (06)|WeR5vG9bsY              |X3QxtSSTAC                             |http://site.poupadefrutas.shop           |
-| LISTA IPTV (07)|79785011                |93075130                               |http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs:80|
+| Qualquer nome   | Username               |Password                               |URL                                      |
+|-----------------|------------------------|---------------------------------------|---------------------------------------- |                  
+| LISTA IPTV (01)|484134749               |328285662                               |http://trexth.xyz:80                     |
+| LISTA IPTV (02)|969003341029            |006662669402                            |http://prata23.shop                      |                   
+| LISTA IPTV (03)|eskuich                 |465691519                               |http://c4n.fun                           |                                     
+| LISTA IPTV (04)|11974034383             |eduardo0102                             |http://dns.papayapt.com.br               |
+| LISTA IPTV (05)|Agostinho               |ReRAmG22                                |http://piratuga.xyz                      |
+| LISTA IPTV (06)|WeR5vG9bsY              |X3QxtSSTAC                              |http://site.poupadefrutas.shop           |
+| LISTA IPTV (07)|79785011                |93075130                                |http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs:80|
+| LISTA IPTV (08)|616191346               |578326266                               |http://iksds.site                        |
