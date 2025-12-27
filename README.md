@@ -51,4 +51,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (07)|79785011                |93075130                                |http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs:80|
 | LISTA IPTV (08)|718423457               |539143340                               |http://iksds.site                        |
 | LISTA IPTV (09)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
-| LISTA IPTV (10)|Pollyanna               |12345678                                |http://tv.com.vc                         |
+| LISTA IPTV (10)|randi123                |randi123                                |http://tv.com.vc                         |
