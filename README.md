@@ -52,3 +52,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (08)|718423457               |539143340                               |http://iksds.site                        |
 | LISTA IPTV (09)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
 | LISTA IPTV (10)|randi123                |randi123                                |http://tv.com.vc                         |
+| LISTA IPTV (11)|032490579768            |174692428479                            |http://dgbr.io                           |
