@@ -51,5 +51,5 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (07)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
 | LISTA IPTV (08)|randi123                |randi123                                |http://tv.com.vc                         |
 | LISTA IPTV (09)|032490579768            |174692428479                            |http://dgbr.io                           |
-| LISTA IPTV (10)|185494769               |879827253                               |http://firetop1.site:80                  |
+| LISTA IPTV (10)|189956566               |823971614                               |http://firetop1.site:80                  |
 | LISTA IPTV (11)|irmaodigao              |24082024                                |http://ax-tv.site                        |
