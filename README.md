@@ -53,5 +53,5 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (09)|032490579768            |174692428479                            |http://dgbr.io                           |
 | LISTA IPTV (10)|189956566               |823971614                               |http://firetop1.site:80                  |
 | LISTA IPTV (11)|128300                  |10203040                                |http://ax-tv.site                        |
-| LISTA IPTV (12)|8yxHApRgvn              |factoryiptv                             |http://play.1list.vip                    |
-| LISTA IPTV (13)|@padre23                |@23claudio                              |http://7tvgols.link:80                   |
+                
+| LISTA IPTV (12)|@padre23                |@23claudio                              |http://7tvgols.link:80                   |
