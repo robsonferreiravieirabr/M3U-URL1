@@ -42,15 +42,16 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv                                                              
 | Qualquer nome   | Username               |Password                               |URL                                      |
 |-----------------|------------------------|---------------------------------------|---------------------------------------- |                  
-| LISTA IPTV (01)|484134749               |328285662                               |http://trexth.xyz:80                     |
-| LISTA IPTV (02)|969003341029            |006662669402                            |http://prata23.shop                      |                   
-| LISTA IPTV (03)|eskuich                 |465691519                               |http://c4n.fun                           |                                     
-| LISTA IPTV (04)|11974034383             |eduardo0102                             |http://dns.papayapt.com.br               |
-| LISTA IPTV (05)|718423457               |539143340                               |http://iksds.site                        |
-| LISTA IPTV (06)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
-| LISTA IPTV (07)|randi123                |randi123                                |http://tv.com.vc                         |
-| LISTA IPTV (08)|032490579768            |174692428479                            |http://dgbr.io                           |
-| LISTA IPTV (09)|189956566               |823971614                               |http://firetop1.site:80                  |
-| LISTA IPTV (10)|128300                  |10203040                                |http://ax-tv.site                        |               
-| LISTA IPTV (11)|@padre23                |@23claudio                              |http://7tvgols.link:80                   |
-| LISTA IPTV (12)|520762599033            |756041968422                            |http://takegot.net                       |
+| LISTA IPTV (01)|982988974                |146280802                              |http://blckath.xyz:80                    |
+| LISTA IPTV (02)|969003341029             |006662669402                           |http://prata23.shop                      |                   
+| LISTA IPTV (03)|eskuich                  |465691519                              |http://c4n.fun                           |                                     
+| LISTA IPTV (04)|11974034383              |eduardo0102                            |http://dns.papayapt.com.br               |
+| LISTA IPTV (05)|718423457                |539143340                              |http://iksds.site                        |
+| LISTA IPTV (06)|Alan123                  |Al1511                                 |http://dns.clientetv.net                 |
+| LISTA IPTV (07)|randi123                 |randi123                               |http://tv.com.vc                         |
+| LISTA IPTV (08)|032490579768             |174692428479                           |http://dgbr.io                           |
+| LISTA IPTV (09)|189956566                |823971614                              |http://firetop1.site:80                  |
+| LISTA IPTV (10)|128300                   |10203040                               |http://ax-tv.site                        |               
+| LISTA IPTV (11)|@padre23                 |@23claudio                             |http://7tvgols.link:80                   |
+| LISTA IPTV (12)|520762599033             |756041968422                           |http://takegot.net                       |
+| LISTA IPTV (13)|52546757                 |746465877                              |http://7voahoje.top:80                   |
