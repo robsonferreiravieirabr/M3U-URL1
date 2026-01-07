@@ -1,40 +1,44 @@
-lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e séries sem pagar nada Todo dia liberamos lista iptv fresquinhas para você aproveitar no celular, TV Box, computador ou Smart TV! perca tempo! Tenha acesso às listas mais completo atualizadas, direto no seu dispositivo Diversão garantida 100% gratuita
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl3bDNxcjBobnowMXNoNG5oN25tOXZkMTdqbDcwZHk2Y3kxenE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Computer man" style="width:350px;height:200px;">
+
+# IPTV Brasil 2025 - Canais, Filmes e Séries
+### <i class="fa-brands fa-pix">
+"Só tem o direito de criticar aquele que pretende ajudar." - Abraham Lincoln
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
-⚫️ DISPOSITIVOS COMPATÍVEIS
-🌟PROMOÇÃO ATMOS IPTV🌟 🎁 4 HORAS DE TESTE GRÁTIS 💚 PLANOS COM ACESSOS 💰 R$ 20,00 MENSAL 💰 R$ 55,00 TRIMESTRAL 💰 R$ 105,00 SEMESTRAL 💰 R$ 200,00 ANUAL
-⚫️ DISPOSITIVOS COMPATÍVEIS 📌🔘📺𝐒𝐌𝐀𝐑𝐓 𝐓𝐕 📌🔘📺𝐓𝐕 𝐁𝐎𝐗 📌🔘📺𝐓𝐕 𝐀𝐍𝐃𝐑𝐎𝐈𝐃 📌🔘📺𝐓𝐕 𝐑𝐎𝐊𝐔 📌🔘📱𝐂𝐄𝐋𝐔𝐋𝐀𝐑 📌🔘💻𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 📲 WhatsApp 🟢 PEÇA SEU TESTE: 👉 71 98453-5585 👉 71 98453-5585
-Suporte das 8h30 as 19h30 de Segunda a Sábado Listas IPTV sempre atualizadas Canais abertos, filmes, séries e esportes.
 
-👨‍💻 Web Player iptvsmarters(01)
+* 👉 <a href="https://www.mediafire.com/file/4j3fkiyxbmzqlsc/IPTV_Smarters_Pro_v4.0.3_.apk/file" download="filename">Clique aqui para baixar no Android-Versão 2024 Premium</a>
 
-http://webtv.iptvsmarters.com/switchuser.php?adduser
+* 👉 <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
 
-👨‍💻 Web Player iptvsmarters pro (02)
+### <a href="https://www.virustotal.com" download="filename">Conferir a confiabilidade dos aplicativos no VirusTotal</a> 
+#
 
-http://webtv-new.iptvsmarters.com/
+# 👍 Contribuições 
+ Se você gosta dos meus projetos, considere fazer uma pequena doação.
 
+ Chave pix ❖  {<a href="LINK" download="filename">6cbc20f2-8b99-4b60-9b76-292f377fa27d</a>}
+ 
+##
 
-👨‍💻 Web Player iptvblinkplayer (03)
+ ### <i class="fa-brands fa-pix">
+⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
+# 📡 Painel Iptv
 
-http://webtv.iptvblinkplayer.com/
+  👨‍💻 Web Player iptvplayer.stream
 
+ http://app.iptvplayer.stream
 
-👨‍💻 Xtream Data Extractor - IPTV Template | WordPress IPTV Templates (04)
+  👨‍💻 Web Player iptvsmarters(01)
 
-https://www.iptvwell.com/xtream-data-extractor/ 
+ http://webtv.iptvsmarters.com/index.php?adduser
 
+  👨‍💻 Web Player iptvsmarters(02)
 
-M3U URL Converter (05)
-
-https://www.iptvwell.com/m3u-url-converter/
-
-
-Internet speed test (06)
-
-https://www.iptvwell.com/internet-speed-test/
+ http://webtv.iptvblinkplayer.com/
 
 Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
+###
+#
 ## Contas Para o Painel Iptv                                                              
 | Qualquer nome   | Username               |Password                               |URL                                      |
 |-----------------|------------------------|---------------------------------------|---------------------------------------- |                  
