@@ -1,5 +1,8 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl3bDNxcjBobnowMXNoNG5oN25tOXZkMTdqbDcwZHk2Y3kxenE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Computer man" style="width:350px;height:200px;">
 
+![download](https://github.com/user-attachments/assets/9ae954bc-84aa-48d9-8894-04ea4072b67c)<svg width="640" height="640" style="background-color:#44badc;font-family:Nunito,sans-serif" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+                <text font-size="30" x="50%" y="50%" dy="5" fill="white" dominant-baseline="middle" text-anchor="middle">IL</text>
+                </svg>
 Listas IPTV sempre atualizadas Canais abertos, filmes, séries e esportes
 
 # LISTA IPTV BRASIL 2026 - Canais, Filmes e Séries
