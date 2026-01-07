@@ -3,8 +3,12 @@
 # LISTA IPTV BRASIL 2026 - Canais, Filmes e Séries
 🌟PROMOÇÃO ATMOS🌟 🎁 6 HORAS DE TESTE GRÁTIS 💚 PLANOS COM ACESSOS 💰 R$ 20,00 MENSAL 💰 R$ 55,00 TRIMESTRAL 💰 R$ 105,00 SEMESTRAL 💰 R$ 200,00 ANUAL
 
+
 ⚫️ DISPOSITIVOS COMPATÍVEIS
-📌🔘📺𝐒𝐌𝐀𝐑𝐓 𝐓𝐕 📌🔘📺𝐓𝐕 𝐁𝐎𝐗  📌🔘📺𝐓𝐕 𝐀𝐍𝐃𝐑𝐎𝐈𝐃 📌🔘📺𝐓𝐕 𝐑𝐎𝐊𝐔 📌🔘📱𝐂𝐄𝐋𝐔𝐋𝐀𝐑 📌🔘💻𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 📲 WhatsApp 🟢 PEÇA SEU TESTE: 👉 71 98453-5585 👉 @iptvatmosp2p
+📌🔘📺𝐒𝐌𝐀𝐑𝐓 𝐓𝐕 📌🔘📺𝐓𝐕 𝐁𝐎𝐗  📌🔘📺𝐓𝐕 𝐀𝐍𝐃𝐑𝐎𝐈𝐃 📌🔘📺𝐓𝐕 𝐑𝐎𝐊𝐔 📌🔘📱𝐂𝐄𝐋𝐔𝐋𝐀𝐑 📌🔘💻𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 
+
+
+📲 WhatsApp 🟢 PEÇA SEU TESTE: 👉 71 98453-5585 👉 @iptvatmosp2p
 
 ## Contas Para o Painel Iptv                                                              
 | Qualquer nome   | Username               |Password                               |URL                                      |
