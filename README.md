@@ -1,5 +1,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl3bDNxcjBobnowMXNoNG5oN25tOXZkMTdqbDcwZHk2Y3kxenE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Computer man" style="width:350px;height:200px;">
 
+Listas IPTV sempre atualizadas Canais abertos, filmes, séries e esportes
+
 # LISTA IPTV BRASIL 2026 - Canais, Filmes e Séries
 🌟PROMOÇÃO ATMOS🌟 
 
