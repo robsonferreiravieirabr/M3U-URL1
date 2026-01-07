@@ -1,6 +1,6 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl3bDNxcjBobnowMXNoNG5oN25tOXZkMTdqbDcwZHk2Y3kxenE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Computer man" style="width:350px;height:200px;">
 
-# IPTV Brasil 2025 - Canais, Filmes e Séries
+# LISTA IPTV BRASIL 2026 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
 "Só tem o direito de criticar aquele que pretende ajudar." - Abraham Lincoln
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
