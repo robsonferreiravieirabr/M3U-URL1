@@ -31,5 +31,5 @@ Listas IPTV sempre atualizadas Canais abertos, filmes, séries e esportes
 | LISTA IPTV (10)|128300                   |10203040                               |http://ax-tv.site                        |               
 | LISTA IPTV (11)|@padre23                 |@23claudio                             |http://7tvgols.link:80                   |
 | LISTA IPTV (12)|520762599033             |756041968422                           |http://takegot.net                       |
-| LISTA IPTV (13)|52546757                 |746465877                              |http://7voahoje.top:80                   |
+| LISTA IPTV (13)|owu3trbd                 |94sdu9rb                               |http://7voahoje.top:80                   |
 | LISTA IPTV (14)|tiago@1                  |tiaggo@1                               |http://oldmonkey.fun:80                  |
